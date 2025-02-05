@@ -1,0 +1,5 @@
+*.gz
+*.csv
+/1-Docker_and_Terraform/ny_taxi_postgres_data
+*.exe
+*.json
