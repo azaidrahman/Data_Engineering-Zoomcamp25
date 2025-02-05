@@ -5,3 +5,5 @@
 Going through a course on Data Engineering at [Zoomcamp 2025](https://github.com/DataTalksClub/data-engineering-zoomcamp). 
 
 The Course is between January/2025 to March/2025
+
+Here there will be several modules that contains files I have worked as I go through the lectures on as well as the answers to homework.
